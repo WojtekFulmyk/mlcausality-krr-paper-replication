@@ -9,12 +9,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [ ![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -33,8 +33,6 @@
     Replication code for the paper "Nonlinear Granger Causality using Kernel Ridge Regression"
     <br />
     <a href="https://github.com/WojtekFulmyk/mlcausality-krr-paper-replication/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/WojtekFulmyk/mlcausality-krr-paper-replication/issues">Request Feature</a>
   </p>
 </div>
 
@@ -77,11 +75,14 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This repository stores replication code for the paper "Nonlinear Granger Causality using Kernel Ridge Regression" that introduces and highlights the use if the <a href="https://github.com/WojtekFulmyk/mlcausality">mlcausality</a> package.
+This repository stores replication code for the paper "Nonlinear Granger Causality using Kernel Ridge Regression" that introduces and highlights the use of the <a href="https://github.com/WojtekFulmyk/mlcausality">mlcausality</a> package.
 
 The replication files contained herein use functions from the following projects:
  <ul>
   <li><a href="https://github.com/Eden-Kramer-Lab/spectral_connectivity">spectral-connectivity</a></li>
+   <ul>
+    <li>Denovellis, E., Myroshnychenko, M., Sarmashghi, M., & Stephen, E. (2022). Eden-Kramer-Lab/spectral_connectivity (Version v1.1.0) [Computer software]. https://doi.org/10.5281/zenodo.1011052</li>
+   </ul>
   <li><a href="https://github.com/Large-scale-causality-inference/Large-scale-nonlinear-causality">lsNGC</a></li>
    <ul>
     <li>Wismüller, A., Dsouza, A.M., Vosoughi, M.A. et al. Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data. Sci Rep 11, 7817 (2021). https://doi.org/10.1038/s41598-021-87316-6</li>
