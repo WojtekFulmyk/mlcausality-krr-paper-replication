@@ -58,7 +58,7 @@
     <li><a href="#file-descriptions">File Descriptions</a></li>
       <ul>
         <li><a href="#files-from-the-lsngc-project">Files from the lsNGC project</a></li>
-        <li><a href="#files-from-the-causal-ccm-project">Files from the causal_ccm project</a></li>
+        <li><a href="#files-from-the-causal_ccm-project">Files from the causal_ccm project</a></li>
         <li><a href="#files-written-by-myself-with-the-help-of-some-code-from-the-spectral-connectivity-library">Files written by myself with the help of some code from the spectral-connectivity library</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -113,7 +113,7 @@ Replication requires the installation of the following Python libraries:
 * [tigramite](https://github.com/jakobrunge/tigramite)
 * [mlcausality](https://github.com/WojtekFulmyk/mlcausality)
 
-Please install libraries into your system before proceeding.
+Please install these libraries into your Python system before proceeding.
 
 ### Downloading the Replication Files
 
@@ -133,7 +133,7 @@ You can replicate results by running all the codes in the `run_all` file on a te
 ## File Descriptions
 
 ### Files from the lsNGC project
-The following repository files are taken from the <li><a href="https://github.com/Large-scale-causality-inference/Large-scale-nonlinear-causality">lsNGC</a</li> project. Note that these files were forked from the originals in order to perform some modifications. In particular, the `utils_mod.py` was modified to calculate p-values, and the `recovery_performance_mod.py` file was modified to ignore the diagonal of the adjacency matrix.
+The following repository files are taken from the <li><a href="https://github.com/Large-scale-causality-inference/Large-scale-nonlinear-causality">lsNGC</a></li> project. Note that these files were forked from the originals in order to perform some modifications. In particular, the `utils_mod.py` was modified to calculate p-values, and the `recovery_performance_mod.py` file was modified to ignore the diagonal of the adjacency matrix.
 
 * `utils_mod.py`
 * `recovery_performance_mod.py`
