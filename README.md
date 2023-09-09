@@ -159,7 +159,7 @@ The following files were largely written by myself (Wojciech "Victor" Fulmyk) wi
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPLv3 License because the  <a href="https://github.com/Eden-Kramer-Lab/spectral_connectivity">spectral-connectivity</a>, whose functions are used in this repository, are also released under GPLv3. See [LICENSE](https://github.com/WojtekFulmyk/mlcausality-krr-paper-replication/blob/master/LICENSE) for more information.
+Distributed under the GPLv3 License because the  <a href="https://github.com/Eden-Kramer-Lab/spectral_connectivity">spectral-connectivity</a> library, whose functions are used in this repository, are also released under GPLv3. See [LICENSE](https://github.com/WojtekFulmyk/mlcausality-krr-paper-replication/blob/master/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
